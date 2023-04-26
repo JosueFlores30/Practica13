@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024565736887",
+    "project_id": "fir-login-e564d",
+    "storage_bucket": "fir-login-e564d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024565736887:android:5fccf122d8eee6345e2432",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.potros.practica13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024565736887-qoihpp2n6iduqtafj5k6fknpk2l9iohv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhe7l-EDJhi_U9rf58iPoVjAE-JFeKroE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024565736887-qoihpp2n6iduqtafj5k6fknpk2l9iohv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
